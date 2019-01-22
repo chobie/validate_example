@@ -1,0 +1,12 @@
+{
+  "name": "psd-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validate.js",
+  "dependencies": {
+    "psd": "^3.2.0"
+  },
+  "devDependencies": {},
+  "author": "chobi_e",
+  "license": "CC0"
+}
